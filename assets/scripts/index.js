@@ -3,9 +3,10 @@ import config from "./Config.js";
 
 const map = new Map(document.getElementById("root")).map;
 const customIcon = L.icon({
-  iconUrl: "http://100.115.1.247:5500/assets/images/marker.png", // Replace with your icon path
-  iconSize: [25, 41], // Size of the icon (width, height)
-  iconAnchor: [12.5, 41], // Anchor point for the icon (optional)
+  iconUrl: "http://100.115.1.247:5500/assets/images/marker.png",
+  iconSize: [50, 50],
+  iconAnchor: [25, 50],
+  popupAnchor: [0, -50] // Anchor point for the icon (optional)
 });
 
 var markerLayer = L.layerGroup();
