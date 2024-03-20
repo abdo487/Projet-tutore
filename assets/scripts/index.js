@@ -3,14 +3,14 @@ import config from "./Config.js";
 
 const map = new Map(document.getElementById("root")).map;
 const customIcon = L.icon({
-  iconUrl: "http://100.115.1.247:5500/assets/images/marker.png",
+  iconUrl: location.href + "assets/Images/pharmacy-marker.png",
   iconSize: [50, 50],
   iconAnchor: [25, 50],
-  popupAnchor: [0, -50] // Anchor point for the icon (optional)
+  popupAnchor: [0, -50], // Anchor point for the icon (optional)
 });
 
 var markerLayer = L.layerGroup();
-fetch("http://100.115.1.247:5500/rabat_pharmacies.geojson")
+fetch(location.href + "rabat_pharmacies.geojson")
   .then((response) => response.json())
   .then((data) => {
     // Add GeoJSON data to the map and filter markers by zoom level
