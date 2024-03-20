@@ -1,0 +1,9 @@
+{  
+    "liveServer.settings.https":   
+        {
+            "enable": true, 
+            "cert": "C:\\Users\\kemora_13conf\\Desktop\\Licence-Pro\\Geolocalisation\\Projet-tutore\\server.crt",
+            "key": "C:\\Users\\kemora_13conf\\Desktop\\Licence-Pro\\Geolocalisation\\Projet-tutore\\server.key",
+            "passphrase": "12345"  
+        }  
+}

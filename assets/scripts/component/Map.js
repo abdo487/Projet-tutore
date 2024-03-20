@@ -1,3 +1,4 @@
+import config from "../Config.js";
 class Map {
   constructor(parent) {
     this.parent = parent;
@@ -12,7 +13,7 @@ class Map {
   }
   initMap() {
     this.map = L.map("map", { zoomControl: false }).setView(
-      [34.01325, -6.83255],
+      config.CITY_COORDNATES,
       14
     );
 
