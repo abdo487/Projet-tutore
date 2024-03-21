@@ -1,4 +1,6 @@
 import config from "../Config.js";
+import ZoomButtons from "./Buttons/ZoomButtons.js";
+
 class Map {
   constructor(parent) {
     this.parent = parent;
@@ -10,6 +12,7 @@ class Map {
     this.parent.appendChild(this.div);
 
     this.initMap();
+    this.zoomControl = new ZoomButtons();
   }
   initMap() {
     this.map = L.map("map", { zoomControl: false }).setView(

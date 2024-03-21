@@ -1,14 +1,16 @@
 import config from '../Config.js';
+import { map } from '../index.js';
 
-export default function load_geojson(map) {
-  var markerLayer = L.layerGroup();
+
+export default function load_geojson() {
+  var markerLayer = L.markerClusterGroup();
   const customIcon = L.icon({
-    iconUrl: location.origin + "/assets/Images/pharmacy-marker.png",
+    iconUrl: location.origin + "/Projet-tutore/assets/Images/pharmacy-marker.png",
     iconSize: [50, 50],
     iconAnchor: [25, 50],
     popupAnchor: [0, -50], // Anchor point for the icon (optional)
   });
-  fetch(location.origin + "/rabat_pharmacies.geojson")
+  fetch(location.origin + "/Projet-tutore/rabat_pharmacies.geojson")
     .then((response) => response.json())
     .then((data) => {
       // Add GeoJSON data to the map and filter markers by zoom level
@@ -28,15 +30,7 @@ export default function load_geojson(map) {
       console.error("Error loading GeoJSON:", error);
     });
 
-  // Update marker visibility ON MAP LOADING
-  map.on("load", function () {
-    if (map.getZoom() >= config.MARKERS_APPEAR_AT_ZOOM) {
-      map.addLayer(markerLayer); // Add marker layer to the map
-    } else {
-      map.removeLayer(markerLayer); // Remove marker layer from the map
-    }
-  });
-
+    
   // Update marker visibility based on zoom level
   map.on("zoomend", function () {
     if (map.getZoom() >= config.MARKERS_APPEAR_AT_ZOOM) {
