@@ -1,62 +1,148 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-#root{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f5f5f5;
-    position: relative;
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  position: relative;
 }
-.map{
-    width: 100%;
-    height: 100vh;
+.map {
+  width: 100%;
+  height: 100vh;
 }
-.right-side-bar{
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 60px;
-    height: 100vh;
-    background-color: transparent;
-    padding: 20px 10px;
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: start;
-    align-items: center;
-    overflow: hidden;
-    gap: 20px;
-    z-index: 1000;
+.right-side-bar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 100vh;
+  background-color: transparent;
+  padding: 20px 10px;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+  gap: 20px;
+  z-index: 1000;
 }
 .leaflet-control-locate a {
+  display: none;
+}
+
+.locate-button {
+  width: 40px;
+  height: 40px;
+  z-index: 1000;
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border: none;
+  outline: none;
+  transition: all 0.3s;
+}
+.locate-button i {
+  color: #262626;
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.locate-button:hover {
+  scale: 1.1;
+}
+.locate-button.located i {
+  color: #007bff;
+}
+
+.zoom-buttons {
+  width: 30px;
+  height: 60px;
+  z-index: 1000;
+  background-color: #fff;
+  border-radius: 7px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border: none;
+  outline: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s;
+  overflow: hidden;
+}
+.zoom-buttons button {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.zoom-separator {
+  width: 80%;
+  height: 2px;
+  background-color: #f5f5f5;
+}
+.zoom-in i,
+.zoom-out i {
+  color: #262626;
+  font-size: 18px;
+  transition: all 0.3s;
+}
+.marker-cluster {
+  width: 40px;
+  height: 80px;
+  background-color: #fc2d5f; /* Adjust to match your desired outer color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s;
+  position: relative;
+  border-radius: 41% 42% 50% 50% / 33% 33% 58% 58%;
+}
+
+.marker-cluster::before {
+  content: "";
+  /* Inner white circle */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 70%;
+  background-color: #fffdfd;
+  border-radius: 50%;
+}
+
+.marker-cluster span {
+  /* Text inside the inner circle */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #262626; /* Text color */
+  font-size: 14px; /* Adjust font size */
+  font-weight: 600;
+  text-align: center; /* Center text horizontally */
+}
+@media only screen and (max-width: 768px) {
+  .locate-button {
+    margin-bottom: 30px;
+  }
+  .zoom-buttons {
     display: none;
   }
-
-.locate-button{
-    width: 40px;
-    height: 40px;
-    z-index: 1000;
-    background-color: #fff;
-    border-radius: 50%;
-    padding: 10px;
-    cursor: pointer;
-    box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    border: none;
-    outline: none;
-    transition: all 0.3s;
-}
-.locate-button i{
-    color: #262626;
-    font-size: 20px;
-    transition: all 0.3s;
-}
-.locate-button:hover{
-    scale: 1.1;
-}
-.locate-button.located i{
-    color: #007bff;
 }

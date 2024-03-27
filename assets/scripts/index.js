@@ -11,3 +11,6 @@ export const map = new Map(document.getElementById("root")).map;
 // load pharmacies located in rabt in the map
 load_geojson();
 locate_user();
+
+// // init the mapmode button
+// new MapModeButton();

@@ -7,7 +7,7 @@ export default function locate_user() {
   let switchLocate = false;
   let layerMarker = L.layerGroup();
   let locationIcon = L.icon({
-    iconUrl: location.origin + "/Projet-tutore/assets/Images/location-marker.png",
+    iconUrl: location.href + "assets/Images/location-marker.png",
     iconSize: [50, 50],
     iconAnchor: [25, 50],
     popupAnchor: [0, -50],

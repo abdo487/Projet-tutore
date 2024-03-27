@@ -8,17 +8,17 @@ export default class ZoomButtons {
         <button class="zoom-in">
             <i class="fas fa-plus"></i>
         </button>
+        <div class="zoom-separator"></div>
         <button class="zoom-out">
             <i class="fas fa-minus"></i>
         </button>
         `
-        this.button.onclick = (e) => {
-            console.log(e.target.className);
-            if (e.target.className === "zoom-in") {
-                map.setZoom(map.getZoom() + 1);
-            } else if (e.target.className === "zoom-out") {
-                map.setZoom(map.getZoom() - 1);
-            }
+        let buttons = this.button.getElementsByTagName("button")
+        buttons[0].onclick = () => {
+            map.zoomIn();
+        }
+        buttons[1].onclick = () => {
+            map.zoomOut();
         }
         rightSideBar.appendChild(this.button);
     }
