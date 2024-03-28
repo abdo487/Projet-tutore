@@ -5,7 +5,6 @@ export var markerLayer = L.markerClusterGroup({
   showCoverageOnHover: false,
   maxClusterRadius: 50,
   iconCreateFunction: function (cluster) {
-  
     return L.divIcon({
       html: `<div>
         <span>${cluster.getChildCount()}</span>
@@ -15,6 +14,7 @@ export var markerLayer = L.markerClusterGroup({
     });
   },
 });
+export var originalMarkerLayer = L.layerGroup();
 const customIcon = L.icon({
   iconUrl: location.href + "assets/Images/pharmacy-marker.png",
   iconSize: [50, 50],
@@ -24,7 +24,6 @@ const customIcon = L.icon({
 
 
 export default function load_geojson() {
-  
   fetch(location.href + "rabat_pharmacies.geojson")
     .then((response) => response.json())
     .then((data) => {
@@ -33,12 +32,11 @@ export default function load_geojson() {
           return L.marker(latlng, { icon: customIcon });
         },
       });
-      markerLayer.addLayer(markers); 
+      markerLayer.addLayer(markers);
+      originalMarkerLayer.addLayer(markers);
     })
     .catch((error) => {
       console.error("Error loading GeoJSON:", error);
     });
-
     map.addLayer(markerLayer);
-  
 }

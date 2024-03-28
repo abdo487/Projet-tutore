@@ -5,8 +5,6 @@ import SearchResult from "./SearchResult.js";
 
 export default class SearchBox {
   constructor() {
-    this.data = new MyArray();
-
     this.searchBox = document.createElement("div");
     this.searchBox.className = "search-box";
     this.searchBox.innerHTML = `
@@ -31,21 +29,34 @@ export default class SearchBox {
 
     this.form.addEventListener("submit", this.searchPharmacy.bind(this));
     document.getElementById("root").appendChild(this.searchBox);
+    this.config()
   }
 
-  searchPharmacy(e) {
-    e.preventDefault();
-    this.data.clear();
-
-    const searchValue = this.input.value?.toLowerCase();
-    if (searchValue === "") return;
-    markerLayer.eachLayer((marker) => {
-      if (marker.feature.properties.name?.toLowerCase().includes(searchValue)) {
-        this.data.addItem(marker);
-        marker.addTo(map);
-      } else {
-        marker.removeFrom(map);
+  config() {
+    this.searchBox.addEventListener("click", (e) => {
+      this.searchBox.classList.add("input-focused");
+    });
+    window.addEventListener("click", (e) => {
+      if (!this.searchBox.contains(e.target)) {
+        this.searchBox.classList.remove("input-focused");
       }
     });
+  }
+
+  async searchPharmacy(e) {
+    e.preventDefault();
+    let data = [];
+    const searchValue = this.input.value?.toLowerCase();
+    if (searchValue != "") {
+      this.searchResult.searchItemsContainer.innerHTML =
+        "<div class='loading'></div>";
+        markerLayer.eachLayer((marker) => {
+          if (marker.feature.properties.name?.toLowerCase().includes(searchValue)) {
+            data.push(marker);
+          }
+        });
+        await new Promise((resolve) => setTimeout(resolve, 500));
+        this.searchResult.render_with(data);
+    }
   }
 }

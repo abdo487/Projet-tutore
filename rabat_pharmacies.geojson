@@ -18,7 +18,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5791154276,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -45,7 +50,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5782555409,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -72,7 +82,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771379820,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -99,7 +114,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3370633328,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -126,7 +146,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3423060126,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -153,7 +178,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444381244,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -180,7 +210,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3417542092,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -207,7 +242,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4497450445,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -234,7 +274,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784779231,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -261,7 +306,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5791306999,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -288,7 +338,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4652737090,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -315,7 +370,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4651057497,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -342,7 +402,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9822751216,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -369,7 +434,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5782838132,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -396,7 +466,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410193820,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -423,7 +498,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3964623160,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -450,7 +530,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3400339101,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -477,7 +562,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214377777,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -504,7 +594,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214391221,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -531,7 +626,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10309607079,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -558,7 +658,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5774077495,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -585,7 +690,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2614573968,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -612,7 +722,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3190094380,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -639,7 +754,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410193819,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -666,7 +786,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5360163261,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -693,7 +818,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3142860279,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -720,7 +850,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5779632176,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -747,7 +882,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9198056620,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -774,7 +914,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9160464959,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -801,7 +946,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9160511077,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -828,7 +978,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9160536758,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -855,7 +1010,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790274644,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -882,7 +1042,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9723715735,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -909,7 +1074,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5141153722,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -936,7 +1106,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780176179,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -963,7 +1138,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4363428490,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -990,7 +1170,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9198036426,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1017,7 +1202,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":1421320060,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1044,7 +1234,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211253596,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1071,7 +1266,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476190803,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1098,7 +1298,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212981538,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1125,7 +1330,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5766588098,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1152,7 +1362,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212906605,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1179,7 +1394,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3417570419,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1206,7 +1426,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9079145917,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1233,7 +1458,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":7734074356,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1260,7 +1490,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4584498190,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1287,7 +1522,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5782555407,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1314,7 +1554,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4460447917,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1341,7 +1586,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5073821421,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1368,7 +1618,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9215154297,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1395,7 +1650,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212247634,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1422,7 +1682,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211322947,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1449,7 +1714,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212188106,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1476,7 +1746,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212268132,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1503,7 +1778,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5782555406,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1530,7 +1810,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787438012,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1557,7 +1842,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5796327796,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1584,7 +1874,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5776117991,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1611,7 +1906,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5773951524,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1638,7 +1938,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790199110,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1665,7 +1970,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790199135,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1692,7 +2002,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4075603409,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1719,7 +2034,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787438005,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1746,7 +2066,12 @@
             "name:ar":"صيدلية الليمون",
             "name:ber":null,
             "osm_id":3594375234,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1773,7 +2098,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4239728904,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1800,7 +2130,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410435116,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1827,7 +2162,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2619545756,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1854,7 +2194,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2619503548,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1881,7 +2226,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787574507,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1908,7 +2258,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5788035864,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1935,7 +2290,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790945074,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1962,7 +2322,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5796383053,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -1989,7 +2354,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5788036464,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2016,7 +2386,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5785168225,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2043,7 +2418,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787395987,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2070,7 +2450,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771934606,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2097,7 +2482,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3436585821,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2124,7 +2514,12 @@
             "name:ar":"عيادة طب الأسنان",
             "name:ber":null,
             "osm_id":4560786293,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2151,7 +2546,12 @@
             "name:ar":"أجهزة طببة",
             "name:ber":null,
             "osm_id":4560744003,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2178,7 +2578,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4004329201,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2205,7 +2610,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771379767,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2232,7 +2642,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9858697929,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2259,7 +2674,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790809313,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2286,7 +2706,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8741474717,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2313,7 +2738,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499276290,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2340,7 +2770,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499303444,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2367,7 +2802,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499280590,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2394,7 +2834,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3761843022,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2421,7 +2866,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3951379157,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2448,7 +2898,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4680520789,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2475,7 +2930,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3761875139,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2502,7 +2962,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5779779499,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2529,7 +2994,12 @@
             "name:ar":"صيدلية النصر",
             "name:ber":null,
             "osm_id":10865931118,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2556,7 +3026,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396785770,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2583,7 +3058,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790179889,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2610,7 +3090,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396647350,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2637,7 +3122,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396647333,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2664,7 +3154,12 @@
             "name:ar":"صيدلية الربيع",
             "name:ber":null,
             "osm_id":10871915847,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2691,7 +3186,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212376265,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2718,7 +3218,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210188912,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2745,7 +3250,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212962521,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2772,7 +3282,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212988945,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2799,7 +3314,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208105105,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2826,7 +3346,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8477194792,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2853,7 +3378,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768606005,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2880,7 +3410,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210565548,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2907,7 +3442,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210193812,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2934,7 +3474,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210138086,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2961,7 +3506,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768749599,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -2988,7 +3538,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210108804,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3015,7 +3570,12 @@
             "name:ar":"عثمان أمزيان",
             "name:ber":null,
             "osm_id":9290658097,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3042,7 +3602,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208043364,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3069,7 +3634,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210430950,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3096,7 +3666,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211320272,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3123,7 +3698,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3449071351,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3150,7 +3730,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3923726554,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3177,7 +3762,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4498470222,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3204,7 +3794,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784542544,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3231,7 +3826,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3576723935,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3258,7 +3858,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3576723928,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3285,7 +3890,12 @@
             "name:ar":"صيدلية الألفية",
             "name:ber":null,
             "osm_id":3414549672,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3312,7 +3922,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3436762171,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3339,7 +3954,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10657551507,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3366,7 +3986,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444348610,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3393,7 +4018,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790116265,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3420,7 +4050,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476099170,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3447,7 +4082,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9205409061,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3474,7 +4114,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790798442,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3501,7 +4146,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214397982,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3528,7 +4178,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":1027807219,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3555,7 +4210,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410053135,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3582,7 +4242,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2569037645,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3609,7 +4274,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3980597618,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3636,7 +4306,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780208742,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3663,7 +4338,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11107231473,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3690,7 +4370,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5794767868,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3717,7 +4402,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5756950874,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3744,7 +4434,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784715459,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3771,7 +4466,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3413975983,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3798,7 +4498,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9160529262,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3825,7 +4530,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":1824603903,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3852,7 +4562,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5794318279,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3879,7 +4594,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790237036,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3906,7 +4626,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444348613,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3933,7 +4658,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3113729376,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3960,7 +4690,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9160469770,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -3987,7 +4722,12 @@
             "name:ar":"صيدلية ابن سينا",
             "name:ber":null,
             "osm_id":444380728,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4014,7 +4754,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3423050475,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4041,7 +4786,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9286764613,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4068,7 +4818,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3111466942,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4095,7 +4850,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2623435570,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4122,7 +4882,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5779912424,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4149,7 +4914,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2614581991,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4176,7 +4946,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2614573499,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4203,7 +4978,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3400335135,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4230,7 +5010,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5779552572,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4257,7 +5042,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3434818738,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4284,7 +5074,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2774853799,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4311,7 +5106,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780467834,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4338,7 +5138,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3980321317,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4365,7 +5170,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476156824,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4392,7 +5202,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3576723936,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4419,7 +5234,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3705833330,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4446,7 +5266,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10542584127,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4473,7 +5298,12 @@
             "name:ar":"دكتورة كريمة بن بوعزة",
             "name:ber":null,
             "osm_id":4611781989,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4500,7 +5330,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8311468499,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4527,7 +5362,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410193818,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4554,7 +5394,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4485377367,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4581,7 +5426,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3423060127,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4608,7 +5458,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771378970,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4635,7 +5490,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2742633454,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4662,7 +5522,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3700915096,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4689,7 +5554,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4546745822,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4716,7 +5586,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3937814595,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4743,7 +5618,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771652475,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4770,7 +5650,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5771378988,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4797,7 +5682,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8191100944,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4824,7 +5714,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8202050744,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4851,7 +5746,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5769243767,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4878,7 +5778,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3449045268,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4905,7 +5810,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476116019,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4932,7 +5842,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4631867649,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4959,7 +5874,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5197907678,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -4986,7 +5906,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3702119358,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5013,7 +5938,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10567658610,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5040,7 +5970,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476069623,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5067,7 +6002,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476099249,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5094,7 +6034,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":482375260,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5121,7 +6066,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3481073936,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5148,7 +6098,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2585737606,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5175,7 +6130,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3772151457,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5202,7 +6162,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5779676237,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5229,7 +6194,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396628057,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5256,7 +6226,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396566531,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5283,7 +6258,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396587904,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5310,7 +6290,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8402853108,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5337,7 +6322,12 @@
             "name:ar":"صيدلية الحساني",
             "name:ber":null,
             "osm_id":10865931117,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5364,7 +6354,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396811191,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5391,7 +6386,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8398886269,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5418,7 +6418,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396800446,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5445,7 +6450,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396788870,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5472,7 +6482,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8402866209,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5499,7 +6514,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396686248,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5526,7 +6546,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396630384,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5553,7 +6578,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396619189,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5580,7 +6610,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8402760604,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5607,7 +6642,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3783575759,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5634,7 +6674,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5796251399,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5661,7 +6706,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784477867,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5688,7 +6738,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5791154311,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5715,7 +6770,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790199324,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5742,7 +6802,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4495228962,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5769,7 +6834,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5757238379,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5796,7 +6866,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5757318868,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5823,7 +6898,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5796206658,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5850,7 +6930,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5796245936,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5877,7 +6962,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790946365,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5904,7 +6994,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2299844673,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5931,7 +7026,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5756950862,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5958,7 +7058,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787574461,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -5985,7 +7090,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787574502,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6012,7 +7122,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3810888773,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6039,7 +7154,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3061023086,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6066,7 +7186,12 @@
             "name:ar":"صيدلية المتوكل",
             "name:ber":null,
             "osm_id":10871904857,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6093,7 +7218,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5791210251,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6120,7 +7250,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787782392,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6147,7 +7282,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784951427,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6174,7 +7314,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787218308,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6201,7 +7346,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790253612,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6228,7 +7378,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10705162805,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6255,7 +7410,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787921660,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6282,7 +7442,12 @@
             "name:ar":"صيدلية الإسماعلي",
             "name:ber":null,
             "osm_id":5489516558,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6309,7 +7474,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5785168220,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6336,7 +7506,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5785145253,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6363,7 +7538,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787486277,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6390,7 +7570,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5784933792,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6417,7 +7602,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499297964,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6444,7 +7634,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499303176,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6471,7 +7666,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4499306718,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6498,7 +7698,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5764267099,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6525,7 +7730,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214351915,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6552,7 +7762,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780313683,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6579,7 +7794,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211246181,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6606,7 +7826,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9227765528,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6633,7 +7858,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3476190804,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6660,7 +7890,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214455456,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6687,7 +7922,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214326796,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6714,7 +7954,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9215166719,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6741,7 +7986,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9214322075,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6768,7 +8018,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211224240,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6795,7 +8050,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4151520089,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6822,7 +8082,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4151510090,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6849,7 +8114,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9211249126,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6876,7 +8146,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790904543,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6903,7 +8178,12 @@
             "name:ar":"هاتف",
             "name:ber":null,
             "osm_id":7813418785,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6930,7 +8210,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5788580246,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6957,7 +8242,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790655951,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -6984,7 +8274,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780368385,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7011,7 +8306,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444381211,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7038,7 +8338,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4501233691,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7065,7 +8370,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3593266838,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7092,7 +8402,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8187610256,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7119,7 +8434,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9207875204,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7146,7 +8466,12 @@
             "name:ar":"عزيزي فاطمة",
             "name:ber":null,
             "osm_id":9267256647,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7173,7 +8498,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9207889370,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7200,7 +8530,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9210044714,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7227,7 +8562,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10657551508,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7254,7 +8594,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3407097808,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7281,7 +8626,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2925750913,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7308,7 +8658,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4607624398,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7335,7 +8690,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":7692275922,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7362,7 +8722,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":7922894547,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7389,7 +8754,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":7814988694,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7416,7 +8786,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4359368490,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7443,7 +8818,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3436707873,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7470,7 +8850,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":2503855868,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7497,7 +8882,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":1655900419,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7524,7 +8914,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444348611,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7551,7 +8946,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":444348612,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7578,7 +8978,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9212372883,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7605,7 +9010,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5764659203,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7632,7 +9042,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4243328589,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7659,7 +9074,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4607626493,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7686,7 +9106,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4607640094,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7713,7 +9138,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208075191,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7740,7 +9170,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768968053,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7767,7 +9202,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768749618,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7794,7 +9234,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208048005,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7821,7 +9266,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768685294,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7848,7 +9298,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5766387611,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7875,7 +9330,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208004366,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7902,7 +9362,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9208770341,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7929,7 +9394,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":3410053131,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7956,7 +9426,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4498470223,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -7983,7 +9458,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4635093889,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8010,7 +9490,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5787995272,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8037,7 +9522,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5794767992,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8064,7 +9554,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":10657554106,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8091,7 +9586,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5780467833,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8118,7 +9618,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5790216005,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8145,7 +9650,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8394319296,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8172,7 +9682,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396776334,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8199,7 +9714,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8402790432,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8226,7 +9746,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396588243,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8253,7 +9778,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396512500,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8280,7 +9810,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396597771,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8307,7 +9842,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":8396621083,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8334,7 +9874,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5890467991,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8361,7 +9906,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11366277725,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8388,7 +9938,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11462433969,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8415,7 +9970,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11470796469,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8442,7 +10002,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":4546751940,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8469,7 +10034,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11483486569,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8496,7 +10066,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":9198047560,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8523,7 +10098,12 @@
             "name:ar":"صيدلية الكرنيش",
             "name:ber":null,
             "osm_id":5771911321,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8550,7 +10130,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11677022685,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8577,7 +10162,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":11677356566,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
@@ -8604,7 +10194,12 @@
             "name:ar":null,
             "name:ber":null,
             "osm_id":5768605992,
-            "osm_type":"nodes"
+            "osm_type":"nodes",
+            "image":null,
+            "medicaments":[],
+            "work_time":"08:00-20:00",
+            "description":"Pharmacie Inbiat",
+            "phone":"+212 5377-77777"
          },
          "geometry":{
             "type":"Point",
