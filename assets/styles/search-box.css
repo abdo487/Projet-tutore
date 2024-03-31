@@ -107,7 +107,7 @@
 .search-item {
   display: flex;
   gap: 10px;
-  align-items: center;
+  align-items: start;
   width: 100%;
   padding: 10px 10px;
   cursor: pointer;
@@ -124,18 +124,18 @@
   object-fit: contain;
   border-radius: 50%;
 }
-.search-item .search-item-info {
+.search-item .search-info {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: start;
   gap: 5px;
 }
-.search-item .search-item-info h4 {
+.search-item .search-info h4 {
   font-size: 16px;
-  color: #333;
+  color: #312b42;
 }
-.search-item .search-item-info p {
+.search-item .search-info p {
   font-size: 14px;
   color: #777;
 }

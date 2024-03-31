@@ -1,4 +1,4 @@
-import { map } from "../index.js";
+import { leftSideBar, map } from "../index.js";
 import { markerLayer } from "../Helpers/load_geojson.js";
 import MyArray from "../js/MyArray.js";
 import SearchResult from "./SearchResult.js";
@@ -24,7 +24,7 @@ export default class SearchBox {
     this.searchButton = this.searchBox.querySelector(".search-button");
     this.filterButton = this.searchBox.querySelector(".search-filter");
     this.result = this.searchBox.querySelector(".result");
-    this.searchResult = new SearchResult(this.data);
+    this.searchResult = new SearchResult(this.searchBox);
     this.result.appendChild(this.searchResult.searchBody);
 
     this.form.addEventListener("submit", this.searchPharmacy.bind(this));
@@ -39,6 +39,7 @@ export default class SearchBox {
     window.addEventListener("click", (e) => {
       if (!this.searchBox.contains(e.target)) {
         this.searchBox.classList.remove("input-focused");
+        leftSideBar.classList.remove("open");
       }
     });
   }

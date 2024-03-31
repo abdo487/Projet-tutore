@@ -1,5 +1,5 @@
-import config from '../Config.js';
-import { map } from '../index.js';
+import config from "../Config.js";
+import { map } from "../index.js";
 
 export var markerLayer = L.markerClusterGroup({
   showCoverageOnHover: false,
@@ -9,7 +9,7 @@ export var markerLayer = L.markerClusterGroup({
       html: `<div>
         <span>${cluster.getChildCount()}</span>
       </div>`,
-      className: 'marker-cluster',
+      className: "marker-cluster",
       iconSize: L.point(40, 40),
     });
   },
@@ -22,9 +22,8 @@ const customIcon = L.icon({
   popupAnchor: [0, -50], // Anchor point for the icon (optional)
 });
 
-
 export default function load_geojson() {
-  fetch(location.href + "rabat_pharmacies.geojson")
+  fetch(location.href + "rabat_pharmacies_updated.geojson")
     .then((response) => response.json())
     .then((data) => {
       let markers = L.geoJSON(data, {
@@ -34,9 +33,27 @@ export default function load_geojson() {
       });
       markerLayer.addLayer(markers);
       originalMarkerLayer.addLayer(markers);
+      map.addLayer(markerLayer);
+
+      addEventsToMarkers();
     })
     .catch((error) => {
       console.error("Error loading GeoJSON:", error);
     });
-    map.addLayer(markerLayer);
+}
+
+function addEventsToMarkers() {
+  markerLayer.eachLayer((marker) => {
+    marker.on("click", function (e) {
+      let popup = L.popup()
+        .setLatLng(e.latlng)
+        .setContent(
+          `<div>
+            <h3>${e.feature?.properties.nom}</h3>
+            <p>${e.feature?.properties.adresse}</p>
+            <p>${e.feature?.properties.telephone}</p>
+          </div>`
+        );
+    });
+  });
 }
