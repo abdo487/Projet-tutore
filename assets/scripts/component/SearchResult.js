@@ -1,5 +1,6 @@
 import { markerLayer } from "../Helpers/load_geojson.js";
-import { leftSideBar, map } from "../index.js";
+import { leftSideBar, map, selectedMarker } from "../index.js";
+
 export default class SearchResult {
   constructor(parent) {
     this.parent = parent;
@@ -58,22 +59,27 @@ export default class SearchResult {
       markerLayer.eachLayer((marker) => {
         if (marker.feature.properties.name == item.feature.properties.name) {
           // change the marker icon size and animate it
-          marker.setIcon(
-            L.divIcon({
-              html: `<div class="selected-pharmacy">
-                <img src="${location.href}/assets/Images/selected-pharmacy-marker.png">
-                <img src="${location.href}/${item.feature.properties.image}" alt="${item.feature.properties.name}">
-              </div>`,
-              className: "selected-pharmacy-container",
-              iconSize: L.point(50, 50),
-            })
-          );
+          // marker.setIcon(
+          //   L.divIcon({
+          //     html: `<div class="selected-pharmacy">
+          //       <img src="${location.href}/assets/Images/selected-pharmacy-marker.png">
+          //       <img src="${location.href}/${item.feature.properties.image}" alt="${item.feature.properties.name}">
+          //     </div>`,
+          //     className: "selected-pharmacy-container",
+          //     iconSize: L.point(50, 50),
+          //   })
+          // );
+
+          // set the selected marker
+          selectedMarker.setSelectedMarker(item, marker);
+          
         }
       });
 
-      map.setView(item.getLatLng(), 15);
+      map.setView(item.getLatLng(), map.getZoom() < 15 ? 15 : map.getZoom());
       this.parent.classList.remove("input-focused");
-      leftSideBar.classList.add("open");
+      leftSideBar.render_with(item.feature);
+      leftSideBar.sidebar.classList.add("open");
     });
     return searchItem;
   }

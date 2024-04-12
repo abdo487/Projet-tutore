@@ -15,6 +15,17 @@
   transition: all 0.3s;
   overflow-y: auto;
 }
+.left-sidebar-container::-webkit-scrollbar {
+  width: 10px;
+}
+.left-sidebar-container::-webkit-scrollbar-thumb {
+  background: #b2b5b9;
+  border-radius: 10px;
+}
+.left-sidebar-container::-webkit-scrollbar-track {
+  background: #f1f1f100;
+}
+
 
 .left-sidebar-container.open {
   bottom: 10px;
@@ -23,7 +34,6 @@
 .left-sidebar {
   display: flex;
   flex-direction: column;
-  gap: 20px;
 }
 
 .left-sidebar-header {
@@ -33,6 +43,7 @@
   background: rgb(248, 246, 246);
   border-radius: 10px;
   position: sticky;
+  z-index: 1000;
   top: 0px;
   padding: 10px;
   gap: 10px;
@@ -61,15 +72,91 @@
 .control-buttons {
   width: 100%;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
   gap: 5px;
 }
 .control-buttons button {
-  background: #007bff;
-  color: #fff;
   border: none;
-  border-radius: 5px;
-  padding: 5px 10px;
   cursor: pointer;
   transition: all 0.3s;
+}
+.direction {
+  background: #007bff;
+  color: #fff;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.direction span {
+  position: absolute;
+  width: max-content;
+  top: 100%;
+  opacity: 0;
+  padding: 5px 10px;
+  background: #28a746a9;
+  color: #fff;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+.direction span::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #28a745;
+  top: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.direction:hover {
+  background: #218838;
+}
+.direction:hover span {
+  top: calc(100% + 8px);
+  opacity: 1;
+}
+.pharmacies {
+  padding: 5px 10px;
+  color: #6c7074;
+  background: transparent;
+  border: 1px solid #b2b5b9 !important;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.pharmacies:hover {
+  background: #b2b5b9;
+  color: #fff;
+}
+.description,
+.working-hours,
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px 10px 10px 10px;
+  margin-top: -10px;
+  border-radius: 10px;
+}
+.description {
+  background: #ffffffbb;
+  backdrop-filter: blur(10px);
+  z-index: 800;
+}
+.working-hours {
+  background: #ffffff9c;
+  backdrop-filter: blur(10px);
+  z-index: 700;
+}
+.contact-info {
+  background: #ffffff2c;
+  backdrop-filter: blur(10px);
+  z-index: 600;
 }

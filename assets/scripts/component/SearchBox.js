@@ -39,7 +39,6 @@ export default class SearchBox {
     window.addEventListener("click", (e) => {
       if (!this.searchBox.contains(e.target)) {
         this.searchBox.classList.remove("input-focused");
-        leftSideBar.classList.remove("open");
       }
     });
   }

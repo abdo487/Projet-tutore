@@ -1,5 +1,5 @@
 import config from "../Config.js";
-import { map } from "../index.js";
+import { leftSideBar, map, selectedMarker } from "../index.js";
 
 export var markerLayer = L.markerClusterGroup({
   showCoverageOnHover: false,
@@ -45,15 +45,11 @@ export default function load_geojson() {
 function addEventsToMarkers() {
   markerLayer.eachLayer((marker) => {
     marker.on("click", function (e) {
-      let popup = L.popup()
-        .setLatLng(e.latlng)
-        .setContent(
-          `<div>
-            <h3>${e.feature?.properties.nom}</h3>
-            <p>${e.feature?.properties.adresse}</p>
-            <p>${e.feature?.properties.telephone}</p>
-          </div>`
-        );
+      leftSideBar.render_with(e.target.feature);
+      map.setView(e.target.getLatLng(), map.getZoom() < 15 ? 15 : map.getZoom());
+      selectedMarker.setSelectedMarker(e.target, marker);
+      leftSideBar.sidebar.classList.add("open");
+      console.log(leftSideBar);
     });
   });
 }
