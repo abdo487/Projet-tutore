@@ -1,4 +1,4 @@
-import config from "../Config.js";
+import {Config} from "../Config.js";
 import ZoomButtons from "./Buttons/ZoomButtons.js";
 
 class Map {
@@ -16,7 +16,7 @@ class Map {
   }
   initMap() {
     this.map = L.map("map", { zoomControl: false }).setView(
-      config.CITY_COORDNATES,
+      Config.CITY_COORDNATES,
       14
     );
 

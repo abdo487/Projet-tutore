@@ -20,7 +20,7 @@
             "osm_id":5791154276,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/493069.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -29,7 +29,7 @@
                "wednesday":"9:00-20:00",
                "thursday":"9:00-20:00",
                "friday":"9:00-20:00",
-               "saturday":null,
+               "saturday":"9:00-20:00",
                "sunday":null
             },
             "description":"Pharmacie Inbiat",
@@ -62,17 +62,17 @@
             "osm_id":5782555409,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/280141.png",
-            "medicaments":[
-               
+            "medications":[
+               "DFDF"
             ],
             "work_time":{
-               "monday":"9:00-20:00",
-               "tuesday":"9:00-20:00",
-               "wednesday":"9:00-20:00",
-               "thursday":"9:00-20:00",
-               "friday":"9:00-20:00",
-               "saturday":null,
-               "sunday":null
+               "monday":"00:00-00:00",
+               "tuesday":"00:00-00:00",
+               "wednesday":"00:00-00:00",
+               "thursday":"00:00-00:00",
+               "friday":"00:00-00:00",
+               "saturday":"00:00-00:00",
+               "sunday":"00:00-00:00"
             },
             "description":"Pharmacie Inbiat",
             "phone":"+212 5377-77777"
@@ -104,8 +104,8 @@
             "osm_id":5771379820,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/920385.png",
-            "medicaments":[
-               
+            "medications":[
+               "DFDF"
             ],
             "work_time":{
                "monday":"9:00-20:00",
@@ -146,8 +146,8 @@
             "osm_id":3370633328,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/229362.png",
-            "medicaments":[
-               
+            "medications":[
+               "DFDF"
             ],
             "work_time":{
                "monday":"9:00-20:00",
@@ -188,7 +188,7 @@
             "osm_id":3423060126,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/42897.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -230,7 +230,7 @@
             "osm_id":444381244,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/503427.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -272,7 +272,7 @@
             "osm_id":3417542092,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/206576.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -314,7 +314,7 @@
             "osm_id":4497450445,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/251501.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -356,7 +356,7 @@
             "osm_id":5784779231,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/493940.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -398,7 +398,7 @@
             "osm_id":5791306999,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/293508.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -440,7 +440,7 @@
             "osm_id":4652737090,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/783627.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -482,7 +482,7 @@
             "osm_id":4651057497,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/372587.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -524,7 +524,7 @@
             "osm_id":9822751216,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/242350.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -566,7 +566,7 @@
             "osm_id":5782838132,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/739058.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -608,7 +608,7 @@
             "osm_id":3410193820,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/313352.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -650,7 +650,7 @@
             "osm_id":3964623160,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/457232.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -692,7 +692,7 @@
             "osm_id":3400339101,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/305787.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -734,7 +734,7 @@
             "osm_id":9214377777,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/206716.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -776,7 +776,7 @@
             "osm_id":9214391221,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/531015.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -818,7 +818,7 @@
             "osm_id":10309607079,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/522902.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -860,7 +860,7 @@
             "osm_id":5774077495,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/772740.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -902,7 +902,7 @@
             "osm_id":2614573968,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/653849.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -944,7 +944,7 @@
             "osm_id":3190094380,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/146411.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -986,7 +986,7 @@
             "osm_id":3410193819,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/801645.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1028,7 +1028,7 @@
             "osm_id":5360163261,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/757135.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1070,7 +1070,7 @@
             "osm_id":3142860279,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/254144.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1112,7 +1112,7 @@
             "osm_id":5779632176,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/479307.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1154,7 +1154,7 @@
             "osm_id":9198056620,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/331407.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1196,7 +1196,7 @@
             "osm_id":9160464959,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/514433.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1238,7 +1238,7 @@
             "osm_id":9160511077,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/869671.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1280,7 +1280,7 @@
             "osm_id":9160536758,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/940872.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1322,7 +1322,7 @@
             "osm_id":5790274644,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/139975.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1364,7 +1364,7 @@
             "osm_id":9723715735,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/571159.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1406,7 +1406,7 @@
             "osm_id":5141153722,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/95511.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1448,7 +1448,7 @@
             "osm_id":5780176179,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/978686.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1490,7 +1490,7 @@
             "osm_id":4363428490,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/60884.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1532,7 +1532,7 @@
             "osm_id":9198036426,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/241163.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1574,7 +1574,7 @@
             "osm_id":1421320060,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/824368.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1616,7 +1616,7 @@
             "osm_id":9211253596,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/428748.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1658,7 +1658,7 @@
             "osm_id":3476190803,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/667204.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1700,7 +1700,7 @@
             "osm_id":9212981538,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/826512.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1742,7 +1742,7 @@
             "osm_id":5766588098,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/204077.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1784,7 +1784,7 @@
             "osm_id":9212906605,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/210661.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1826,7 +1826,7 @@
             "osm_id":3417570419,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/745229.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1868,7 +1868,7 @@
             "osm_id":9079145917,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/72593.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1910,7 +1910,7 @@
             "osm_id":7734074356,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/950205.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1952,7 +1952,7 @@
             "osm_id":4584498190,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/264378.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -1994,7 +1994,7 @@
             "osm_id":5782555407,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/402801.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2036,7 +2036,7 @@
             "osm_id":4460447917,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/813129.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2078,7 +2078,7 @@
             "osm_id":5073821421,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/805833.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2120,7 +2120,7 @@
             "osm_id":9215154297,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/38925.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2162,7 +2162,7 @@
             "osm_id":9212247634,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/543247.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2204,7 +2204,7 @@
             "osm_id":9211322947,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/363197.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2246,7 +2246,7 @@
             "osm_id":9212188106,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/325767.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2288,7 +2288,7 @@
             "osm_id":9212268132,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/275488.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2330,7 +2330,7 @@
             "osm_id":5782555406,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/823272.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2372,7 +2372,7 @@
             "osm_id":5787438012,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/811467.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2414,7 +2414,7 @@
             "osm_id":5796327796,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/30297.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2456,7 +2456,7 @@
             "osm_id":5776117991,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/440452.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2498,7 +2498,7 @@
             "osm_id":5773951524,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/765393.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2540,7 +2540,7 @@
             "osm_id":5790199110,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/895428.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2582,7 +2582,7 @@
             "osm_id":5790199135,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/916240.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2624,7 +2624,7 @@
             "osm_id":4075603409,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/494520.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2666,7 +2666,7 @@
             "osm_id":5787438005,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/856965.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2708,7 +2708,7 @@
             "osm_id":3594375234,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/13856.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2750,7 +2750,7 @@
             "osm_id":4239728904,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/472667.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2792,7 +2792,7 @@
             "osm_id":3410435116,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/114384.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2834,7 +2834,7 @@
             "osm_id":2619545756,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/851141.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2876,7 +2876,7 @@
             "osm_id":2619503548,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/29474.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2918,7 +2918,7 @@
             "osm_id":5787574507,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/727299.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -2960,7 +2960,7 @@
             "osm_id":5788035864,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/112408.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3002,7 +3002,7 @@
             "osm_id":5790945074,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/558149.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3044,7 +3044,7 @@
             "osm_id":5796383053,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/736019.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3086,7 +3086,7 @@
             "osm_id":5788036464,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/822102.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3128,7 +3128,7 @@
             "osm_id":5785168225,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/405027.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3170,7 +3170,7 @@
             "osm_id":5787395987,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/502965.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3212,7 +3212,7 @@
             "osm_id":5771934606,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/143072.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3254,7 +3254,7 @@
             "osm_id":3436585821,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/754549.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3296,7 +3296,7 @@
             "osm_id":4560786293,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/240749.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3338,7 +3338,7 @@
             "osm_id":4560744003,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/774086.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3380,7 +3380,7 @@
             "osm_id":4004329201,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/101667.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3422,7 +3422,7 @@
             "osm_id":5771379767,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/339754.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3464,7 +3464,7 @@
             "osm_id":9858697929,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/882956.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3506,7 +3506,7 @@
             "osm_id":5790809313,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/125820.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3548,7 +3548,7 @@
             "osm_id":8741474717,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/345747.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3590,7 +3590,7 @@
             "osm_id":4499276290,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/985392.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3632,7 +3632,7 @@
             "osm_id":4499303444,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/598035.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3674,7 +3674,7 @@
             "osm_id":4499280590,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/615842.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3716,7 +3716,7 @@
             "osm_id":3761843022,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/458959.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3758,7 +3758,7 @@
             "osm_id":3951379157,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/531096.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3800,7 +3800,7 @@
             "osm_id":4680520789,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/234892.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3842,7 +3842,7 @@
             "osm_id":3761875139,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/207714.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3884,7 +3884,7 @@
             "osm_id":5779779499,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/164461.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3926,7 +3926,7 @@
             "osm_id":10865931118,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/919188.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -3968,7 +3968,7 @@
             "osm_id":8396785770,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/664158.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4010,7 +4010,7 @@
             "osm_id":5790179889,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/632060.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4052,7 +4052,7 @@
             "osm_id":8396647350,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/300452.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4094,7 +4094,7 @@
             "osm_id":8396647333,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/183405.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4136,7 +4136,7 @@
             "osm_id":10871915847,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/192723.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4178,7 +4178,7 @@
             "osm_id":9212376265,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/560560.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4220,7 +4220,7 @@
             "osm_id":9210188912,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/803433.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4262,7 +4262,7 @@
             "osm_id":9212962521,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/198193.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4304,7 +4304,7 @@
             "osm_id":9212988945,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/415549.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4346,7 +4346,7 @@
             "osm_id":9208105105,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/727894.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4388,7 +4388,7 @@
             "osm_id":8477194792,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/54779.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4430,7 +4430,7 @@
             "osm_id":5768606005,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/632740.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4472,7 +4472,7 @@
             "osm_id":9210565548,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/434076.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4514,7 +4514,7 @@
             "osm_id":9210193812,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/888858.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4556,7 +4556,7 @@
             "osm_id":9210138086,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/395397.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4598,7 +4598,7 @@
             "osm_id":5768749599,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/469519.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4640,7 +4640,7 @@
             "osm_id":9210108804,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/628140.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4682,7 +4682,7 @@
             "osm_id":9290658097,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/711964.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4724,7 +4724,7 @@
             "osm_id":9208043364,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/903517.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4766,7 +4766,7 @@
             "osm_id":9210430950,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/641123.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4808,7 +4808,7 @@
             "osm_id":9211320272,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/152046.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4850,7 +4850,7 @@
             "osm_id":3449071351,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/659331.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4892,7 +4892,7 @@
             "osm_id":3923726554,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/239447.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4934,7 +4934,7 @@
             "osm_id":4498470222,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/428175.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -4976,7 +4976,7 @@
             "osm_id":5784542544,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/333931.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5018,7 +5018,7 @@
             "osm_id":3576723935,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/277705.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5060,7 +5060,7 @@
             "osm_id":3576723928,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/825281.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5102,7 +5102,7 @@
             "osm_id":3414549672,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/183868.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5144,7 +5144,7 @@
             "osm_id":3436762171,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/526561.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5186,7 +5186,7 @@
             "osm_id":10657551507,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/346198.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5228,7 +5228,7 @@
             "osm_id":444348610,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/419947.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5270,7 +5270,7 @@
             "osm_id":5790116265,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/224778.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5312,7 +5312,7 @@
             "osm_id":3476099170,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/915381.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5354,7 +5354,7 @@
             "osm_id":9205409061,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/162672.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5396,7 +5396,7 @@
             "osm_id":5790798442,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/149346.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5438,7 +5438,7 @@
             "osm_id":9214397982,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/75235.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5480,7 +5480,7 @@
             "osm_id":1027807219,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/555269.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5522,7 +5522,7 @@
             "osm_id":3410053135,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/647332.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5564,7 +5564,7 @@
             "osm_id":2569037645,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/581703.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5606,7 +5606,7 @@
             "osm_id":3980597618,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/5872.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5648,7 +5648,7 @@
             "osm_id":5780208742,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/635739.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5690,7 +5690,7 @@
             "osm_id":11107231473,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/815467.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5732,7 +5732,7 @@
             "osm_id":5794767868,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/699291.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5774,7 +5774,7 @@
             "osm_id":5756950874,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/353570.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5816,7 +5816,7 @@
             "osm_id":5784715459,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/491110.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5858,7 +5858,7 @@
             "osm_id":3413975983,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/562070.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5900,7 +5900,7 @@
             "osm_id":9160529262,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/956721.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5942,7 +5942,7 @@
             "osm_id":1824603903,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/829585.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -5984,7 +5984,7 @@
             "osm_id":5794318279,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/318556.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6026,7 +6026,7 @@
             "osm_id":5790237036,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/603533.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6068,7 +6068,7 @@
             "osm_id":444348613,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/466294.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6110,7 +6110,7 @@
             "osm_id":3113729376,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/642921.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6152,7 +6152,7 @@
             "osm_id":9160469770,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/231748.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6194,7 +6194,7 @@
             "osm_id":444380728,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/777793.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6236,7 +6236,7 @@
             "osm_id":3423050475,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/670691.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6278,7 +6278,7 @@
             "osm_id":9286764613,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/937110.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6320,7 +6320,7 @@
             "osm_id":3111466942,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/275267.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6362,7 +6362,7 @@
             "osm_id":2623435570,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/70390.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6404,7 +6404,7 @@
             "osm_id":5779912424,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/826241.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6446,7 +6446,7 @@
             "osm_id":2614581991,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/576758.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6488,7 +6488,7 @@
             "osm_id":2614573499,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/869977.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6530,7 +6530,7 @@
             "osm_id":3400335135,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/822658.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6572,7 +6572,7 @@
             "osm_id":5779552572,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/603490.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6614,7 +6614,7 @@
             "osm_id":3434818738,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/658603.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6656,7 +6656,7 @@
             "osm_id":2774853799,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/394109.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6698,7 +6698,7 @@
             "osm_id":5780467834,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/448627.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6740,7 +6740,7 @@
             "osm_id":3980321317,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/25080.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6782,7 +6782,7 @@
             "osm_id":3476156824,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/906465.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6824,7 +6824,7 @@
             "osm_id":3576723936,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/331908.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6866,7 +6866,7 @@
             "osm_id":3705833330,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/933123.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6908,7 +6908,7 @@
             "osm_id":10542584127,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/114989.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6950,7 +6950,7 @@
             "osm_id":4611781989,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/4987.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -6992,7 +6992,7 @@
             "osm_id":8311468499,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/862853.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7034,7 +7034,7 @@
             "osm_id":3410193818,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/425879.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7076,7 +7076,7 @@
             "osm_id":4485377367,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/973469.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7118,7 +7118,7 @@
             "osm_id":3423060127,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/487661.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7160,7 +7160,7 @@
             "osm_id":5771378970,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/158250.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7202,7 +7202,7 @@
             "osm_id":2742633454,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/911454.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7244,7 +7244,7 @@
             "osm_id":3700915096,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/874926.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7286,7 +7286,7 @@
             "osm_id":4546745822,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/156087.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7328,7 +7328,7 @@
             "osm_id":3937814595,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/598852.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7370,7 +7370,7 @@
             "osm_id":5771652475,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/256812.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7412,7 +7412,7 @@
             "osm_id":5771378988,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/75113.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7454,7 +7454,7 @@
             "osm_id":8191100944,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/935255.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7496,7 +7496,7 @@
             "osm_id":8202050744,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/823640.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7538,7 +7538,7 @@
             "osm_id":5769243767,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/354718.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7580,7 +7580,7 @@
             "osm_id":3449045268,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/166663.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7622,7 +7622,7 @@
             "osm_id":3476116019,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/165159.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7664,7 +7664,7 @@
             "osm_id":4631867649,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/154425.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7706,7 +7706,7 @@
             "osm_id":5197907678,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/338482.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7748,7 +7748,7 @@
             "osm_id":3702119358,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/619930.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7790,7 +7790,7 @@
             "osm_id":10567658610,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/536010.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7832,7 +7832,7 @@
             "osm_id":3476069623,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/990992.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7874,7 +7874,7 @@
             "osm_id":3476099249,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/479192.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7916,7 +7916,7 @@
             "osm_id":482375260,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/971613.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -7958,7 +7958,7 @@
             "osm_id":3481073936,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/795397.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8000,7 +8000,7 @@
             "osm_id":2585737606,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/601648.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8042,7 +8042,7 @@
             "osm_id":3772151457,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/113973.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8084,7 +8084,7 @@
             "osm_id":5779676237,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/188460.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8126,7 +8126,7 @@
             "osm_id":8396628057,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/115126.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8168,7 +8168,7 @@
             "osm_id":8396566531,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/195286.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8210,7 +8210,7 @@
             "osm_id":8396587904,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/623031.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8252,7 +8252,7 @@
             "osm_id":8402853108,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/10947.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8294,7 +8294,7 @@
             "osm_id":10865931117,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/716457.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8336,7 +8336,7 @@
             "osm_id":8396811191,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/61794.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8378,7 +8378,7 @@
             "osm_id":8398886269,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/396923.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8420,7 +8420,7 @@
             "osm_id":8396800446,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/257703.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8462,7 +8462,7 @@
             "osm_id":8396788870,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/202443.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8504,7 +8504,7 @@
             "osm_id":8402866209,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/404592.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8546,7 +8546,7 @@
             "osm_id":8396686248,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/532750.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8588,7 +8588,7 @@
             "osm_id":8396630384,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/79089.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8630,7 +8630,7 @@
             "osm_id":8396619189,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/248021.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8672,7 +8672,7 @@
             "osm_id":8402760604,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/835409.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8714,7 +8714,7 @@
             "osm_id":3783575759,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/377835.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8756,7 +8756,7 @@
             "osm_id":5796251399,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/160382.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8798,7 +8798,7 @@
             "osm_id":5784477867,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/832737.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8840,7 +8840,7 @@
             "osm_id":5791154311,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/464379.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8882,7 +8882,7 @@
             "osm_id":5790199324,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/656181.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8924,7 +8924,7 @@
             "osm_id":4495228962,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/737424.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -8966,7 +8966,7 @@
             "osm_id":5757238379,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/498266.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9008,7 +9008,7 @@
             "osm_id":5757318868,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/714789.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9050,7 +9050,7 @@
             "osm_id":5796206658,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/12139.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9092,7 +9092,7 @@
             "osm_id":5796245936,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/287065.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9134,7 +9134,7 @@
             "osm_id":5790946365,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/321675.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9176,7 +9176,7 @@
             "osm_id":2299844673,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/579595.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9218,7 +9218,7 @@
             "osm_id":5756950862,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/142775.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9260,7 +9260,7 @@
             "osm_id":5787574461,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/403429.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9302,7 +9302,7 @@
             "osm_id":5787574502,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/952695.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9344,7 +9344,7 @@
             "osm_id":3810888773,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/968930.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9386,7 +9386,7 @@
             "osm_id":3061023086,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/771008.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9428,7 +9428,7 @@
             "osm_id":10871904857,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/761627.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9470,7 +9470,7 @@
             "osm_id":5791210251,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/421193.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9512,7 +9512,7 @@
             "osm_id":5787782392,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/264213.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9554,7 +9554,7 @@
             "osm_id":5784951427,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/94089.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9596,7 +9596,7 @@
             "osm_id":5787218308,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/967246.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9638,7 +9638,7 @@
             "osm_id":5790253612,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/510663.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9680,7 +9680,7 @@
             "osm_id":10705162805,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/873613.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9722,7 +9722,7 @@
             "osm_id":5787921660,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/327729.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9764,7 +9764,7 @@
             "osm_id":5489516558,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/682622.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9806,7 +9806,7 @@
             "osm_id":5785168220,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/154978.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9848,7 +9848,7 @@
             "osm_id":5785145253,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/231121.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9890,7 +9890,7 @@
             "osm_id":5787486277,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/192200.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9932,7 +9932,7 @@
             "osm_id":5784933792,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/976016.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -9974,7 +9974,7 @@
             "osm_id":4499297964,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/980127.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10016,7 +10016,7 @@
             "osm_id":4499303176,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/620253.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10058,7 +10058,7 @@
             "osm_id":4499306718,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/220288.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10100,7 +10100,7 @@
             "osm_id":5764267099,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/627878.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10142,7 +10142,7 @@
             "osm_id":9214351915,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/330423.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10184,7 +10184,7 @@
             "osm_id":5780313683,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/825479.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10226,7 +10226,7 @@
             "osm_id":9211246181,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/983535.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10268,7 +10268,7 @@
             "osm_id":9227765528,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/268145.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10310,7 +10310,7 @@
             "osm_id":3476190804,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/216932.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10352,7 +10352,7 @@
             "osm_id":9214455456,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/756638.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10394,7 +10394,7 @@
             "osm_id":9214326796,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/851696.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10436,7 +10436,7 @@
             "osm_id":9215166719,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/326039.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10478,7 +10478,7 @@
             "osm_id":9214322075,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/210400.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10520,7 +10520,7 @@
             "osm_id":9211224240,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/927898.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10562,7 +10562,7 @@
             "osm_id":4151520089,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/697609.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10604,7 +10604,7 @@
             "osm_id":4151510090,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/766506.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10646,7 +10646,7 @@
             "osm_id":9211249126,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/394714.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10688,7 +10688,7 @@
             "osm_id":5790904543,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/764728.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10730,7 +10730,7 @@
             "osm_id":7813418785,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/82365.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10772,7 +10772,7 @@
             "osm_id":5788580246,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/179969.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10814,7 +10814,7 @@
             "osm_id":5790655951,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/144653.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10856,7 +10856,7 @@
             "osm_id":5780368385,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/944526.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10898,7 +10898,7 @@
             "osm_id":444381211,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/896132.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10940,7 +10940,7 @@
             "osm_id":4501233691,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/623636.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -10982,7 +10982,7 @@
             "osm_id":3593266838,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/675711.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11024,7 +11024,7 @@
             "osm_id":8187610256,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/122184.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11066,7 +11066,7 @@
             "osm_id":9207875204,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/188547.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11108,7 +11108,7 @@
             "osm_id":9267256647,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/15950.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11150,7 +11150,7 @@
             "osm_id":9207889370,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/808422.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11192,7 +11192,7 @@
             "osm_id":9210044714,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/489793.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11234,7 +11234,7 @@
             "osm_id":10657551508,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/477433.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11276,7 +11276,7 @@
             "osm_id":3407097808,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/707541.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11318,7 +11318,7 @@
             "osm_id":2925750913,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/23845.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11360,7 +11360,7 @@
             "osm_id":4607624398,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/416075.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11402,7 +11402,7 @@
             "osm_id":7692275922,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/913297.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11444,7 +11444,7 @@
             "osm_id":7922894547,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/271240.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11486,7 +11486,7 @@
             "osm_id":7814988694,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/889190.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11528,7 +11528,7 @@
             "osm_id":4359368490,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/668985.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11570,7 +11570,7 @@
             "osm_id":3436707873,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/794795.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11612,7 +11612,7 @@
             "osm_id":2503855868,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/501256.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11654,7 +11654,7 @@
             "osm_id":1655900419,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/107412.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11696,7 +11696,7 @@
             "osm_id":444348611,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/841392.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11738,7 +11738,7 @@
             "osm_id":444348612,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/386593.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11780,7 +11780,7 @@
             "osm_id":9212372883,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/75754.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11822,7 +11822,7 @@
             "osm_id":5764659203,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/444771.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11864,7 +11864,7 @@
             "osm_id":4243328589,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/445208.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11906,7 +11906,7 @@
             "osm_id":4607626493,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/7195.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11948,7 +11948,7 @@
             "osm_id":4607640094,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/255885.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -11990,7 +11990,7 @@
             "osm_id":9208075191,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/151964.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12032,7 +12032,7 @@
             "osm_id":5768968053,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/321658.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12074,7 +12074,7 @@
             "osm_id":5768749618,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/461224.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12116,7 +12116,7 @@
             "osm_id":9208048005,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/493803.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12158,7 +12158,7 @@
             "osm_id":5768685294,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/644743.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12200,7 +12200,7 @@
             "osm_id":5766387611,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/384819.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12242,7 +12242,7 @@
             "osm_id":9208004366,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/725970.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12284,7 +12284,7 @@
             "osm_id":9208770341,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/661728.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12326,7 +12326,7 @@
             "osm_id":3410053131,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/653375.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12368,7 +12368,7 @@
             "osm_id":4498470223,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/721345.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12410,7 +12410,7 @@
             "osm_id":4635093889,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/26713.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12452,7 +12452,7 @@
             "osm_id":5787995272,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/634015.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12494,7 +12494,7 @@
             "osm_id":5794767992,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/276647.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12536,7 +12536,7 @@
             "osm_id":10657554106,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/515640.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12578,7 +12578,7 @@
             "osm_id":5780467833,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/991281.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12620,7 +12620,7 @@
             "osm_id":5790216005,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/196580.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12662,7 +12662,7 @@
             "osm_id":8394319296,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/396557.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12704,7 +12704,7 @@
             "osm_id":8396776334,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/979753.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12746,7 +12746,7 @@
             "osm_id":8402790432,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/314447.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12788,7 +12788,7 @@
             "osm_id":8396588243,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/274203.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12830,7 +12830,7 @@
             "osm_id":8396512500,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/60581.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12872,7 +12872,7 @@
             "osm_id":8396597771,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/136445.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12914,7 +12914,7 @@
             "osm_id":8396621083,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/848062.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12956,7 +12956,7 @@
             "osm_id":5890467991,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/474953.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -12998,7 +12998,7 @@
             "osm_id":11366277725,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/923151.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13040,7 +13040,7 @@
             "osm_id":11462433969,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/870446.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13082,7 +13082,7 @@
             "osm_id":11470796469,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/327653.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13124,7 +13124,7 @@
             "osm_id":4546751940,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/359531.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13166,7 +13166,7 @@
             "osm_id":11483486569,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/315624.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13208,7 +13208,7 @@
             "osm_id":9198047560,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/353442.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13250,7 +13250,7 @@
             "osm_id":5771911321,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/862760.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13292,7 +13292,7 @@
             "osm_id":11677022685,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/852118.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13334,7 +13334,7 @@
             "osm_id":11677356566,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/265770.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{
@@ -13376,7 +13376,7 @@
             "osm_id":5768605992,
             "osm_type":"nodes",
             "image":"assets/pharmacy_images/624412.png",
-            "medicaments":[
+            "medications":[
                
             ],
             "work_time":{

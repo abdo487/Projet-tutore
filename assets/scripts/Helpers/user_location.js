@@ -1,4 +1,4 @@
-import config from "../Config.js";
+import {Config} from "../Config.js";
 import LocateButton from "../component/Buttons/LocateButton.js";
 import { map, rightSideBar, leftSideBar } from "../index.js";
 
@@ -35,7 +35,7 @@ export default function locate_user() {
       layerMarker.addLayer(locationMarker);
     } else {
       map.stopLocate();
-      map.setView(config.CITY_COORDNATES, 14);
+      map.setView(Config.CITY_COORDNATES, 14);
       layerMarker.clearLayers();
     }
     located = !located;

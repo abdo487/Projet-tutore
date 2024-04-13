@@ -9,7 +9,7 @@ import {
 export default class LeftSideBar {
   constructor() {
     this.sidebar = document.createElement("div");
-    this.sidebar.className = "left-sidebar-container open";
+    this.sidebar.className = "left-sidebar-container";
     this.sidebar.innerHTML = `
       <div class="left-sidebar">
         <div class="left-sidebar-header">

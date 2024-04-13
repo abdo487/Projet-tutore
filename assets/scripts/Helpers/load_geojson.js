@@ -1,4 +1,3 @@
-import config from "../Config.js";
 import { leftSideBar, map, selectedMarker } from "../index.js";
 
 export var markerLayer = L.markerClusterGroup({
@@ -14,7 +13,7 @@ export var markerLayer = L.markerClusterGroup({
     });
   },
 });
-export var originalMarkerLayer = L.layerGroup();
+export var originalMarkerLayer = L.markerClusterGroup();
 const customIcon = L.icon({
   iconUrl: location.href + "assets/Images/pharmacy-marker.png",
   iconSize: [50, 50],
